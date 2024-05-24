@@ -1,1 +1,1 @@
-# Semi-Supervisied-SLP
+# Semi-Supervisied-T2G
