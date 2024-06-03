@@ -1,0 +1,42 @@
+tag: ''
+dataset: phoenix2014T
+
+batch_size: 32
+test_batch_size: 1024
+learning_rate: 5.0e-5
+weight_decay: 0.0
+
+global_epoch: 65
+decay_rate: 0.0
+decay_epoch: 30
+
+model: transformer
+rnn_type: ''
+attn_method: ''
+input_size: 
+emb_size: 512
+hidden_size: 512
+ff_size: 2048
+num_heads: 8
+num_layers: 5
+emb_dropout: 0.1
+dropout: 0.15
+input_feeding: False
+smoothing: 0.2
+
+beam_size: 3
+alpha: 1.0
+max_seq_len: 35
+teacher_forcing: 0.4
+sample: 1
+
+pretrained: False
+checkpoint_path: ''
+freeze_backbone: False
+
+change_dir: ''
+log_dir: ''
+log_tail: '_G2T_transformer'
+log_interval: 30
+num_workers: 6
+
