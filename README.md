@@ -29,6 +29,16 @@ To train the proposed model, please run the following command.
 ## Citation
 If you find this repo useful in your research works, please consider citing:
 ```bibtex
+@inproceedings{yao2024s3lg,
+  title={Semi-Supervised Spoken Language Glossification},
+  author={Yao, Huijie and Zhou, Wengang and Zhou, Hao and Li, Houqiang},
+  booktitle={Proceedings of the Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  year={2024}
+}
+```
+
+If you find this monolingual corpus useful in your research works, please consider citing:
+```bibtex
 @inproceedings{zhou2021improving,
   title={Improving sign language translation with monolingual data by sign back-translation},
   author={Zhou, Hao and Zhou, Wengang and Qi, Weizhen and Pu, Junfu and Li, Houqiang},
