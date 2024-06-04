@@ -1,4 +1,4 @@
-# Semi-Supervisied-T2G
+# S3LP for Text to Gloss Translation
 
 Official implementation of the [**ACL 2024** paper] Semi-Supervisied Spoken Language Glossification.
 
@@ -36,4 +36,6 @@ If you find this repo useful in your research works, please consider citing:
   pages={1316--1325},
   year={2021}
 }
-``
+```
+
+Please note that the corpora ([PHOENIX2014T](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)) have their own licenses and any use of them should be conforming with them and include the appropriate citations.
