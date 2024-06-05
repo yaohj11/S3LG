@@ -1,4 +1,4 @@
-# S3LG for Text to Sign Language Gloss Translation
+# S3LG for Text to Gloss Translation
 
 Official implementation of the [**ACL 2024** paper] Semi-Supervisied Spoken Language Glossification.
 
